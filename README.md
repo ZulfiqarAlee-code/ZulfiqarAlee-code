@@ -1,35 +1,25 @@
-# 👋 Hi, I'm Zulfiqar Ali
+# 👋 Hi, I'm Zulfiqar Ali — Web Developer & Machine Learning Enthusiast | IT Graduate
 
-**Web Developer & Machine Learning Enthusiast** | Recent IT Graduate
+## 👨‍💻 About Me
 
-Passionate about building intelligent systems and creating seamless digital experiences through clean code and innovative solutions.
+IT Graduate with hands-on experience in full-stack web development, machine learning, networking, and system administration. I specialize in turning complex problems into simple, beautiful, and intuitive solutions. Always eager to learn new technologies and contribute to meaningful projects.
 
----
-
-## 🚀 Quick Links
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zulfiali4545@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zulfiqar-Alee)
 
 ---
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![Zulfiqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zulfiqar-Alee&show_icons=true&theme=default&hide_title=true)
+![Zulfiqar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZulfiqarAlee-code&show_icons=true&theme=default&hide_title=true)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zulfiqar-Alee&layout=compact&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZulfiqarAlee-code&layout=compact&theme=default&hide_title=true)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-IT Graduate with hands-on experience in full-stack web development, machine learning, networking, and system administration. I specialize in turning complex problems into simple, beautiful, and intuitive solutions. Always eager to learn new technologies and contribute to meaningful projects.
 
 ---
 
@@ -94,23 +84,14 @@ IT Graduate with hands-on experience in full-stack web development, machine lear
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email%20Me-zulfiali4545@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zulfiali4545@gmail.com)
-[![Phone](https://img.shields.io/badge/Call%20Me-%2B923121054128-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923121054128)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Zulfiqar%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-Zulfiqar--Alee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zulfiqar-Alee)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Zulfiqar%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/zulfiqarali45)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-Zulfiqar--Alee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZulfiqarAlee-code)
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
 
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolapp.com/?user=Zulfiqar-Alee&theme=default&hide_border=true)
-  
-</div>
-
----
 
 <div align="center">
   
