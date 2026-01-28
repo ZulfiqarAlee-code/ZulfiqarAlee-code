@@ -75,8 +75,9 @@ I'm a recent IT graduate with hands-on experience in full-stack web development,
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zulfiqar-Alee&show_icons=true&theme=default)
+<!-- Add these under the GitHub Stats section if desired -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zulfiqar-Alee&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Zulfiqar-Alee&theme=default)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zulfiqar-Alee&theme=flat)
 
 <!-- Replace Zulfiqar-Alee with your actual GitHub username in the above URLs -->
